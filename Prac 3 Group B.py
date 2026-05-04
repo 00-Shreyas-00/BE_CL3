@@ -1,3 +1,5 @@
+# Design and develop a distributed application to find the coolest/hottest year from the available weather data. Use weather data from the Internet and process it using Map Reduce.
+
 data = [
     ("2001", 32), ("2001", 35),
     ("2002", 28), ("2002", 40),
